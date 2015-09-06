@@ -19,3 +19,6 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+Assets/Plugins.meta
+Assets/Plugins/MiniJSON.cs
+Assets/Plugins/MiniJSON.cs.meta
